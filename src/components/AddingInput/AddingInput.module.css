@@ -1,0 +1,33 @@
+.searchSection {
+    position: absolute;
+    bottom: 124px;
+    left: 58px;
+}
+
+input[type="search"] {
+    outline: none;
+    border: 2px solid #bdc3c7;
+    padding: 5px 50px 5px 15px;
+    display: block;
+    width: 388px;
+    height: 50px;
+    background: #fff;
+    border-radius: 7px;
+    font-size: 20px;
+}
+
+button[type="submit"] {
+    position: absolute;
+    top: -5px;
+    right: -15px;
+    z-index: 9;
+    outline: none;
+    border: none;
+    display: inline-block;
+    background: #2ecc71;
+    color: #fff;
+    padding: 15px 17px;
+    border-radius: 35px;
+    cursor: pointer;
+}
+

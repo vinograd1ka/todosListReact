@@ -1,0 +1,5 @@
+.myPosts {
+    max-height: 280px;
+    overflow: auto;
+    margin-top: 15px;
+}
